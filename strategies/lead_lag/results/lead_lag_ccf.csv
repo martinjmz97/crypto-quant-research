@@ -1,0 +1,11 @@
+alt,n,ccf_0,ccf_1,ccf_2,ccf_3,best_lag,best_ccf,sig_lag1,sig_lag2,sig_lag3
+ETHUSDT,61344,0.818,-0.0033,-0.0217,0.0198,0,0.818,false,false,false
+SOLUSDT,61344,0.7507,-0.0198,-0.0219,0.0178,0,0.7507,false,false,false
+BNBUSDT,61344,0.7204,-0.0016,-0.0219,0.0169,0,0.7204,false,false,false
+XRPUSDT,61344,0.4878,-0.0054,-0.0053,0.0015,0,0.4878,false,false,false
+ADAUSDT,61344,0.6118,-0.0033,-0.0129,0.0138,0,0.6118,false,false,false
+AVAXUSDT,61344,0.6869,-0.009,-0.0152,0.0084,0,0.6869,false,false,false
+DOTUSDT,61344,0.6224,-0.0084,-0.0165,0.0053,0,0.6224,false,false,false
+LINKUSDT,61344,0.6567,-0.003,-0.0184,0.0093,0,0.6567,false,false,false
+LTCUSDT,61344,0.6038,-0.0051,-0.0157,0.01,0,0.6038,false,false,false
+DOGEUSDT,61344,0.6863,-0.0027,-0.0127,0.0082,0,0.6863,false,false,false
